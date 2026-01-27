@@ -1,4 +1,4 @@
-package com.in.kousiK.SpringBootPracticeWithJPA.Controller;
+package com.in.kousiK.SpringBootPracticeWithJPA.controller;
 
 import java.util.List;
 
