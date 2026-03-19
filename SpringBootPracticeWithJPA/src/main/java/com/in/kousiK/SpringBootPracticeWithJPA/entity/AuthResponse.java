@@ -3,7 +3,7 @@ package com.in.kousiK.SpringBootPracticeWithJPA.entity;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
-@Data
+//@Data
 @AllArgsConstructor
 public class AuthResponse {
 

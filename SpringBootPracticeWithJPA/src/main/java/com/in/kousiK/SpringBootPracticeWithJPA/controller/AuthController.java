@@ -10,11 +10,13 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.in.kousiK.SpringBootPracticeWithJPA.SecurityConfiguration.JwtUtil;
-import com.in.kousiK.SpringBootPracticeWithJPA.dao.UserRepository;
-import com.in.kousiK.SpringBootPracticeWithJPA.entity.AuthRequest;
-import com.in.kousiK.SpringBootPracticeWithJPA.entity.AuthResponse;
-import com.in.kousiK.SpringBootPracticeWithJPA.entity.User;
+//import com.in.kousiK.SpringBootPracticeWithJPA.SecurityConfiguration.JwtUtil;
+
+//import com.in.kousiK.SpringBootPracticeWithJPA.SecurityConfiguration.JwtUtil;
+//import com.in.kousiK.SpringBootPracticeWithJPA.dao.UserRepository;
+//import com.in.kousiK.SpringBootPracticeWithJPA.entity.AuthRequest;
+//import com.in.kousiK.SpringBootPracticeWithJPA.entity.AuthResponse;
+//import com.in.kousiK.SpringBootPracticeWithJPA.entity.User;
 
 @RestController
 @RequestMapping("/auth")
