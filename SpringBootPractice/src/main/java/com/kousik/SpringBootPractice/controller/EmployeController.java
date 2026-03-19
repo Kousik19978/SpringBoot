@@ -26,7 +26,7 @@ public class EmployeController {
 
 	@GetMapping
 	public String welcome() {
-		return "Welcome..V1";
+		return "Welcome..V2";
 	}
 	
 	@GetMapping("/empList")
